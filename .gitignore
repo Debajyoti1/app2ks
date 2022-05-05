@@ -1,2 +1,8 @@
-
 *.class
+.classpath
+*.jar
+*.properties
+*.prefs
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/com.debu.ms/app2ks/pom.xml
+.project
